@@ -4,6 +4,7 @@ Builded modul lanms for python 3.6+windows
 Download(clone) package lanms to your cumputer and extract to project directory. Done!
 
 bug import lanms modul:
+
   import lanms
   File "H:\TEXT DETECT-RECOGNITION\RFB-Text-Detection-master\lanms\__init__.py", line 7, in <module>
     if subprocess.call(['make', '-C', BASE_DIR]) != 0:  # return value
