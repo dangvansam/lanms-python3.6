@@ -1,5 +1,5 @@
 # lanms-python3.6
-Builded modul lanms for python 3.6+windows
+Built modul lanms for python 3.6+windows 64bit
 
 Download(clone) package lanms to your cumputer and extract to project directory. Done!
 
